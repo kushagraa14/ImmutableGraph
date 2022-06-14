@@ -10,7 +10,7 @@ DESC
   s.homepage = 'https://github.com/horothesun/ImmutableGraph'
   s.license = { :type => 'MIT', :file => 'LICENSE' }
   s.author = { 'horothesun' => 'horothesun@gmail.com' }
-  s.source = { :git => 'https://github.com/horothesun/ImmutableGraph.git', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/kushagraa14/ImmutableGraph', :tag => s.version.to_s }
 
   s.swift_versions = '5.0'
 
